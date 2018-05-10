@@ -5,6 +5,6 @@ import android.widget.Toast
 
 object Login {
     fun Log(ctx: Context,msg: String ){
-        Toast.makeText(ctx,msg,Toast.LENGTH_LONG).show()
+        Toast.makeText(ctx,msg,Toast .LENGTH_LONG).show()
     }
 }
